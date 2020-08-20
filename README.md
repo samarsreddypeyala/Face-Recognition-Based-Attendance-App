@@ -16,4 +16,8 @@ Haar cascade file: [link](https://github.com/opencv/opencv/blob/master/data/haar
 ## Backend Work
 <br>![imag22](https://github.com/samarsreddy/Face-Recognition-Based-Attendance-App/blob/master/demo-images/2.png)<br>
 ![imag45](https://github.com/samarsreddy/Face-Recognition-Based-Attendance-App/blob/master/demo-images/1.png)
-
+#### Team members:
+- Peyala Samarasimha Reddy(me)
+- Manikanta Sannidhi
+- Jagannadhan Manasa
+- Mahalakshmi Bairaju
