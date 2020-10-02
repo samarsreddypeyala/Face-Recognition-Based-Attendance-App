@@ -1,6 +1,6 @@
 # Face Recognition Based Attendance System
 ## Web App using Flask
-Trained 155 images with shape of 224 224 of students and used flask to make web app and Jython for android app.
+Trained 155 images with shape of 224 224 of students and used flask to make web app.
 <br>
 Haar cascade file: [link](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml)
 <br>VGG weights file: [link](https://drive.google.com/file/d/1971Xk5RwedbudGgTIrGAL4F7Aifu7id1/view)
