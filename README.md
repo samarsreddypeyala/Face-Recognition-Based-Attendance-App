@@ -16,9 +16,6 @@ Haar cascade file: [link](https://github.com/opencv/opencv/blob/master/data/haar
 ![imag2](https://github.com/samarsreddy/Face-Recognition-Based-Attendance-App/blob/master/demo-images/11.png)
 4. Extract the attendance sheet and insights in the .csv file<br>
 ![imag23](https://github.com/samarsreddy/Face-Recognition-Based-Attendance-App/blob/master/demo-images/12.png)
-## Backend Work
-<br>![imag22](https://github.com/samarsreddy/Face-Recognition-Based-Attendance-App/blob/master/demo-images/2.png)<br>
-![imag45](https://github.com/samarsreddy/Face-Recognition-Based-Attendance-App/blob/master/demo-images/1.png)
 #### Team members:
 - Peyala Samarasimha Reddy(me)
 - Manikanta Sannidhi
